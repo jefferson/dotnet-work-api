@@ -1,0 +1,14 @@
+E:\Estudos\dotnetcore2.1\worker_service\bin\Debug\netcoreapp2.1\worker_service.deps.json
+E:\Estudos\dotnetcore2.1\worker_service\bin\Debug\netcoreapp2.1\worker_service.runtimeconfig.json
+E:\Estudos\dotnetcore2.1\worker_service\bin\Debug\netcoreapp2.1\worker_service.runtimeconfig.dev.json
+E:\Estudos\dotnetcore2.1\worker_service\bin\Debug\netcoreapp2.1\worker_service.dll
+E:\Estudos\dotnetcore2.1\worker_service\bin\Debug\netcoreapp2.1\worker_service.pdb
+E:\Estudos\dotnetcore2.1\worker_service\obj\Debug\netcoreapp2.1\worker_service.csprojAssemblyReference.cache
+E:\Estudos\dotnetcore2.1\worker_service\obj\Debug\netcoreapp2.1\worker_service.csproj.CoreCompileInputs.cache
+E:\Estudos\dotnetcore2.1\worker_service\obj\Debug\netcoreapp2.1\worker_service.RazorAssemblyInfo.cache
+E:\Estudos\dotnetcore2.1\worker_service\obj\Debug\netcoreapp2.1\worker_service.RazorAssemblyInfo.cs
+E:\Estudos\dotnetcore2.1\worker_service\obj\Debug\netcoreapp2.1\worker_service.AssemblyInfoInputs.cache
+E:\Estudos\dotnetcore2.1\worker_service\obj\Debug\netcoreapp2.1\worker_service.AssemblyInfo.cs
+E:\Estudos\dotnetcore2.1\worker_service\obj\Debug\netcoreapp2.1\worker_service.RazorTargetAssemblyInfo.cache
+E:\Estudos\dotnetcore2.1\worker_service\obj\Debug\netcoreapp2.1\worker_service.dll
+E:\Estudos\dotnetcore2.1\worker_service\obj\Debug\netcoreapp2.1\worker_service.pdb
